@@ -1,0 +1,30 @@
+# textdomain: boosts
+
+You don't have enough money for a @1 boost!=
+You need @1x @2 in your inventory for a @3 boost!=
+You now have a @1 boost for @2 minutes!=
+Your @1 boost expires in 5 seconds!=
+Your @1 boost expired!=
+You already have a @1 boost!=
+Player @1 already has a @2 boost!=
+You already got the @1 privilege!=
+Player @1 already got the @2 privilege!=
+You must be online to buy boosts!=
+Player @1 must be online to get boosted!=
+You gifted player @1 a @2 boost!=
+Player @1 gifted you a @2-boost!=
+The boost command has been used incorrectly: @1 Help: /help boost=
+Please enter a valid boost!=
+Please enter a valid command!=
+Please enter a valid player!=
+Buy or gift a boost. Available boosts are listed at /boosts=
+Buy and gift boosts for free.=
+Lists available boosts.=
+Available boosts=
+@1 boost=
+Privilege: @1=
+Duration: @1 minutes=
+Cost: @1=
+No boosts available!=
+free=
+Your @1 boost from your previous session has been removed!=

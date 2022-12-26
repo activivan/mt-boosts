@@ -1,0 +1,30 @@
+# textdomain: boosts
+
+You don't have enough money for a @1 boost!=Du hast nicht genug Geld für einen @1-Boost!
+You need @1x @2 in your inventory for a @3 boost!=Für einen @3-Boost benötigst du @1x @2 in deinem Inventar!
+You now have a @1 boost for @2 minutes!=Du hast jetzt für @2 Minuten einen @1-Boost!
+Your @1 boost expires in 5 seconds!=Dein @1-Boost läuft in 5 Sekunden ab!
+Your @1 boost expired!=Dein @1-Boost ist abgelaufen!
+You already have a @1 boost!=Du hast bereits einen @1-Boost!
+Player @1 already has a @2 boost!=Spieler @1 hat bereits einen @2-Boost!
+You already got the @1 privilege!=Du hast bereits das @1-Privileg!
+Player @1 already got the @2 privilege!=Spieler @1 hat bereits das @2 Privileg!
+You must be online to buy boosts!=Du musst online sein, um Boosts kaufen zu können!
+Player @1 must be online to get boosted!=Spieler @1 muss online sein, um geboostet zu werden!
+You gifted player @1 a @2 boost!=Du hast Spieler @1 einen @2-Boost geschenkt!
+Player @1 gifted you a @2-boost!=Spieler @1 hat dir einen @2-Boost geschenkt!
+The boost command has been used incorrectly: @1 Help: /help boost=Der boost-Befehl wurde falsch benutzt: @1 Hilfe: /help boost
+Please enter a valid boost!=Bitte gebe einen gültigen Boost an!
+Please enter a valid command!=Bitte gebe einen gültigen Befehl an!
+Please enter a valid player!=Bitte gebe einen gültigen Spieler an!
+Buy or gift a boost. Available boosts are listed at /boosts=Kaufe oder schenke einen Boost. Verfügbare Boosts sind unter /boosts gelistet.
+Buy and gift boosts for free.=Kaufe und verschenke Boosts umsonst.
+Lists available boosts.=Listet verfügbare Boosts auf.
+Available boosts=Verfügbare Boosts
+@1 boost=@1-Boost
+Privilege: @1=Privileg: @1
+Duration: @1 minutes=Dauer: @1 Minuten
+Cost: @1=Kosten: @1
+No boosts available!=Keine Boosts verfügbar!
+free=gratis
+Your @1 boost from your previous session has been removed!=Der @1-Boost aus deiner letzten Sitzung wurde entfernt!
