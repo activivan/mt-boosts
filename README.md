@@ -1,5 +1,5 @@
 # Minetest Boosts
-This Minetest mod adds boosts, technically privileges that are granted temporarily.
+This Minetest mod adds boosts, technically privileges that are granted temporarily. Users can buy or gift them.
 
 ## Configuration
 You can configure your boosts in the `boosts.lua` file in the mod folder or configure them world-specific by creating a `boosts.lua` file in your world folder.
