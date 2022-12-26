@@ -78,4 +78,4 @@ This mod ships with a `booster` privilege, with which users can buy and gift boo
 ## License
 Copyright © 2022 activivan activivan.studios@gmail.com
 
-Licensed under GNU Lesser General Public License v2.1 or later
+Licensed under GNU Lesser General Public License v3 or later
